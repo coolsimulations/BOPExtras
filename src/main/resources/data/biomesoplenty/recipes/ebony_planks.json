@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "biomesoplenty:ebony_logs"
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:ebony_planks",
+    "count": 4
+  }
+}

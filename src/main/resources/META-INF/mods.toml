@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[25,)"
+authors="coolsim"
+credits="Adubbz, Forstride - for 83.3% of textures and Biomes O' Plenty code"
+
+[[mods]]
+    modId="biomesoplentyextras"
+    version="${version}"
+    displayName="Biomes O' Plenty Extras"
+    description='''
+    Adds Blocks, Items and biomes that were removed from 1.12 to 1.13!
+    '''
+
+[[dependencies.biomesoplentyextras]]
+    modId="forge"
+    mandatory=true
+    versionRange="[25,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.biomesoplentyextras]]
+    modId="biomesoplenty"
+    mandatory=true
+    versionRange="version"
+    ordering="BEFORE"
+    side="BOTH"

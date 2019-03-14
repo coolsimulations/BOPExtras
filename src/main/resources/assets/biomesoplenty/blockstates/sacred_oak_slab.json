@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "biomesoplenty:block/sacred_oak_slab" },
+        "type=top": { "model": "biomesoplenty:block/sacred_oak_slab_top" },
+        "type=double": { "model": "biomesoplenty:block/sacred_oak_planks" }
+    }
+}

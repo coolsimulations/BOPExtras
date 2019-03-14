@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:ebony_door",
+	"biomesoplenty:eucalyptus_door",
+	"biomesoplenty:mangrove_door",
+	"biomesoplenty:pine_door",
+	"biomesoplenty:sacred_oak_door"
+  ]
+}

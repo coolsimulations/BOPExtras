@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:ebony_planks",
+	"biomesoplenty:eucalyptus_planks",
+	"biomesoplenty:mangrove_planks",
+	"biomesoplenty:pine_planks",
+	"biomesoplenty:sacred_oak_planks"
+  ]
+}

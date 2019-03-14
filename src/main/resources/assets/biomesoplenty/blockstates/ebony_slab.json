@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "biomesoplenty:block/ebony_slab" },
+        "type=top": { "model": "biomesoplenty:block/ebony_slab_top" },
+        "type=double": { "model": "biomesoplenty:block/ebony_planks" }
+    }
+}

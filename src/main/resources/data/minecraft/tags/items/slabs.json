@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+	"biomesoplenty:ebony_slab",
+	"biomesoplenty:eucalyptus_slab",
+	"biomesoplenty:mangrove_slab",
+	"biomesoplenty:pine_slab",
+	"biomesoplenty:sacred_oak_slab"
+  ]
+}

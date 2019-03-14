@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:eucalyptus_log",
+    "biomesoplenty:eucalyptus_wood",
+    "biomesoplenty:stripped_eucalyptus_log",
+    "biomesoplenty:stripped_eucalyptus_wood"
+  ]
+}

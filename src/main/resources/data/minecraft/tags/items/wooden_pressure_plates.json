@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:ebony_pressure_plate",
+	"biomesoplenty:eucalyptus_pressure_plate",
+	"biomesoplenty:mangrove_pressure_plate",
+	"biomesoplenty:pine_pressure_plate",
+	"biomesoplenty:sacred_oak_pressure_plate"
+  ]
+}

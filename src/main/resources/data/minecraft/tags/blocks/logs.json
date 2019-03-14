@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#biomesoplenty:ebony_logs",
+	"#biomesoplenty:eucalyptus_logs",
+	"#biomesoplenty:mangrove_logs",
+	"#biomesoplenty:pine_logs",
+	"#biomesoplenty:sacred_oak_logs"
+  ]
+}

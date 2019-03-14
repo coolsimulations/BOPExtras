@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:ebony_sapling",
+	"biomesoplenty:eucalyptus_sapling",
+	"biomesoplenty:mangrove_sapling",
+	"biomesoplenty:pine_sapling",
+	"biomesoplenty:sacred_oak_sapling"
+  ]
+}

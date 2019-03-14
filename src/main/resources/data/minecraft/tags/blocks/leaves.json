@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:ebony_leaves",
+	"biomesoplenty:eucalyptus_leaves",
+	"biomesoplenty:mangrove_leaves",
+	"biomesoplenty:pine_leaves",
+	"biomesoplenty:sacred_oak_leaves"
+  ]
+}

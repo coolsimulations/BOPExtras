@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:ebony_button",
+	"biomesoplenty:eucalyptus_button",
+	"biomesoplenty:mangrove_button",
+	"biomesoplenty:pine_button",
+	"biomesoplenty:sacred_oak_button"
+  ]
+}

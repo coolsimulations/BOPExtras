@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:ebony_trapdoor",
+	"biomesoplenty:eucalyptus_trapdoor",
+	"biomesoplenty:mangrove_trapdoor",
+	"biomesoplenty:pine_trapdoor",
+	"biomesoplenty:sacred_oak_trapdoor"
+  ]
+}

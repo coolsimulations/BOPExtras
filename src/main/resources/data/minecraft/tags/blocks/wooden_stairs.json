@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+	"biomesoplenty:ebony_stairs",
+	"biomesoplenty:eucalyptus_stairs",
+	"biomesoplenty:mangrove_stairs",
+	"biomesoplenty:pine_stairs",
+	"biomesoplenty:sacred_oak_stairs"
+  ]
+}

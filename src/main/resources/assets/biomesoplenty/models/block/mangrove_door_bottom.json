@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "biomesoplenty:blocks/mangrove_door_bottom",
+        "top": "biomesoplenty:blocks/mangrove_door_top"
+    }
+}

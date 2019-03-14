@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "wooden_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "biomesoplenty:sacred_oak_planks"
+    }
+  },
+  "result": {
+    "item": "biomesoplenty:sacred_oak_slab",
+    "count": 6
+  }
+}

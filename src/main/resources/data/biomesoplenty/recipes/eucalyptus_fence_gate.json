@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "group": "wooden_fence_gate",
+  "pattern": [
+    "#W#",
+    "#W#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "biomesoplenty:eucalyptus_planks"
+    }
+  },
+  "result": {
+    "item": "biomesoplenty:eucalyptus_fence_gate"
+  }
+}

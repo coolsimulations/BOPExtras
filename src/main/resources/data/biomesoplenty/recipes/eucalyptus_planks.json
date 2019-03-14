@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "biomesoplenty:eucalyptus_logs"
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:eucalyptus_planks",
+    "count": 4
+  }
+}

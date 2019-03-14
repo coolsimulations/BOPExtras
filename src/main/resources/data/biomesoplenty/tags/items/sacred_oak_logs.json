@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:sacred_oak_log",
+    "biomesoplenty:sacred_oak_wood",
+    "biomesoplenty:stripped_sacred_oak_log",
+    "biomesoplenty:stripped_sacred_oak_wood"
+  ]
+}

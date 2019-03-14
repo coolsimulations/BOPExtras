@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "boat",
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "biomesoplenty:sacred_oak_planks"
+    }
+  },
+  "result": {
+    "item": "biomesoplenty:sacred_oak_boat"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "biomesoplenty:sacred_oak_logs"
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:sacred_oak_planks",
+    "count": 4
+  }
+}

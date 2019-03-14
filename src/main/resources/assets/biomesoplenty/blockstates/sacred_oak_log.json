@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":    { "model": "biomesoplenty:block/sacred_oak_log" },
+        "axis=z":     { "model": "biomesoplenty:block/sacred_oak_log", "x": 90 },
+        "axis=x":     { "model": "biomesoplenty:block/sacred_oak_log", "x": 90, "y": 90 }
+    }
+}

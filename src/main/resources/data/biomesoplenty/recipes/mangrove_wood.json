@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "biomesoplenty:mangrove_log"
+    }
+  },
+  "result": {
+    "item": "biomesoplenty:mangrove_wood",
+    "count": 3
+  }
+}

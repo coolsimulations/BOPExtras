@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:ebony_boat",
+	"biomesoplenty:eucalyptus_boat",
+	"biomesoplenty:mangrove_boat",
+	"biomesoplenty:pine_boat",
+	"biomesoplenty:sacred_oak_boat"
+  ]
+}

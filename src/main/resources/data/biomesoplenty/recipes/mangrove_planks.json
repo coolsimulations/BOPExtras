@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "biomesoplenty:mangrove_logs"
+    }
+  ],
+  "result": {
+    "item": "biomesoplenty:mangrove_planks",
+    "count": 4
+  }
+}

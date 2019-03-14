@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:mangrove_log",
+    "biomesoplenty:mangrove_wood",
+    "biomesoplenty:stripped_mangrove_log",
+    "biomesoplenty:stripped_mangrove_wood"
+  ]
+}
